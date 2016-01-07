@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon addon_id="Moturdrn_TS3GW2Auth" title="[Moturdrn] TS3 GW2 Authentication" version_string="1.0.5" version_id="1005"
+       url="" install_callback_class="Moturdrn_TS3GW2Auth_Installer" install_callback_method="install"
+       uninstall_callback_class="Moturdrn_TS3GW2Auth_Installer" uninstall_callback_method="uninstall">
+    <admin_navigation/>
+    <admin_permissions/>
+    <admin_style_properties/>
+    <admin_templates/>
+    <admin_template_modifications/>
+    <code_events/>
+    <code_event_listeners>
+        <listener event_id="widget_framework_ready" execute_order="10" callback_class="Moturdrn_TS3GW2Auth_Listener"
+                  callback_method="WidgetFrameworkReady" active="1" hint="" description=""/>
+    </code_event_listeners>
+    <cron>
+        <entry entry_id="TS3GW2Auth_CronEntry" cron_class="Moturdrn_TS3GW2Auth_CronEntry" cron_method="refreshAPIData"
+               active="0"><![CDATA[{"day_type":"dom","dom":["-1"],"hours":["-1"],"minutes":["0"]}]]></entry>
+    </cron>
+    <email_templates/>
+    <email_template_modifications/>
+    <optiongroups>
+        <group group_id="moturdrn_ts3gw2auth" display_order="999999" debug_only="0"/>
+        <option option_id="ts3gw2auth_keyprefix" edit_format="textbox" data_type="string" can_backup="1">
+            <default_value>GHTS3</default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="8"/>
+        </option>
+        <option option_id="ts3gw2auth_ts3password" edit_format="textbox" data_type="string" can_backup="1">
+            <default_value></default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="7"/>
+        </option>
+        <option option_id="ts3gw2auth_ts3port" edit_format="textbox" data_type="integer" can_backup="1">
+            <default_value>9987</default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="4"/>
+        </option>
+        <option option_id="ts3gw2auth_ts3server" edit_format="textbox" data_type="string" can_backup="1">
+            <default_value>localhost</default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="3"/>
+        </option>
+        <option option_id="ts3gw2auth_ts3serverquery" edit_format="textbox" data_type="integer" can_backup="1">
+            <default_value>10011</default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="5"/>
+        </option>
+        <option option_id="ts3gw2auth_ts3username" edit_format="textbox" data_type="string" can_backup="1">
+            <default_value></default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="6"/>
+        </option>
+        <option option_id="ts3gw2auth_verified_group" edit_format="textbox" data_type="integer" can_backup="1">
+            <default_value>0</default_value>
+            <edit_format_params></edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="2"/>
+        </option>
+        <option option_id="ts3gw2auth_worldid" edit_format="select" data_type="integer" can_backup="1">
+            <default_value>999</default_value>
+            <edit_format_params>999=-- Please Select --
+                2204=Abaddon's Mouth [DE]
+                1001=Anvil Rock
+                2105=Arborstone [FR]
+                2103=Augury Rock [FR]
+                2013=Aurora Glade
+                2301=Baruch Bay [SP]
+                1019=Blackgate
+                2004=Blacktide
+                1002=Borlis Pass
+                1014=Crystal Desert
+                1012=Darkhaven
+                2002=Desolation
+                1023=Devona's Rest
+                1021=Dragonbrand
+                2205=Drakkar Lake [DE]
+                2207=Dzagonur [DE]
+                1010=Ehmry Bay
+                2203=Elona Reach [DE]
+                1024=Eredon Terrace
+                2007=Far Shiverpeaks
+                1020=Ferguson's Crossing
+                2001=Fissure of Woe
+                1009=Fort Aspenwood
+                2102=Fort Ranik [FR]
+                2003=Gandara
+                1007=Gate of Madness
+                2014=Gunnar's Hold
+                1004=Henge of Denravi
+                1015=Isle of Janthir
+                1008=Jade Quarry
+                2101=Jade Sea [FR]
+                1022=Kaineng
+                2201=Kodash [DE]
+                1005=Maguuma
+                2206=Miller's Sound [DE]
+                1018=Northern Shiverpeaks
+                2012=Piken Square
+                2005=Ring of Fire
+                2202=Riverside [DE]
+                2009=Ruins of Surmia
+                1013=Sanctum of Rall
+                1016=Sea of Sorrows
+                2010=Seafarer's Rest
+                1006=Sorrow's Furnace
+                1011=Stormbluff Isle
+                1017=Tarnished Coast
+                2006=Underworld
+                2011=Vabbi
+                2104=Vizunah Square [FR]
+                2008=Whiteside Ridge
+                1003=Yak's Bend
+            </edit_format_params>
+            <sub_options></sub_options>
+            <relation group_id="moturdrn_ts3gw2auth" display_order="1"/>
+        </option>
+    </optiongroups>
+    <permissions>
+        <permission_groups/>
+        <permissions/>
+        <interface_groups/>
+    </permissions>
+    <phrases>
+        <phrase title="cron_entry_TS3GW2Auth_CronEntry" version_id="1001" version_string="1.0.1">
+            <![CDATA[[Moturdrn] TS3 Authentication - Refresh API Data]]></phrase>
+        <phrase title="option_group_moturdrn_ts3gw2auth" version_id="1004" version_string="1.0.4">
+            <![CDATA[[Moturdrn] TS3 GW2 Authentication]]></phrase>
+        <phrase title="option_group_moturdrn_ts3gw2auth_description" version_id="1004" version_string="1.0.4">
+            <![CDATA[]]></phrase>
+        <phrase title="option_ts3gw2auth_keyprefix" version_id="1004" version_string="1.0.4">
+            <![CDATA[Key Name Prefix]]></phrase>
+        <phrase title="option_ts3gw2auth_keyprefix_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Enter the desired prefix for the name of the API keys. Example: Entering GH.eu will expect API keys to be named like GH.eu-RANDOMSTRING, GHTS3 will expect API keys to be named GHTS3-RANDOMSTRING, etc.]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3password" version_id="1004" version_string="1.0.4">
+            <![CDATA[TS3 ServerQuery Password]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3password_explain" version_id="1004" version_string="1.0.4"><![CDATA[Password for logging in to ServerQuery<br />
+<b>Please note that this is stored as plain text</b>]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3port" version_id="1004" version_string="1.0.4">
+            <![CDATA[TS3 Server Port]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3port_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Port used to connect to the TS3 instance. e.g. 9987]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3server" version_id="1004" version_string="1.0.4">
+            <![CDATA[TS3 Server Hostname/IP]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3serverquery" version_id="1004" version_string="1.0.4">
+            <![CDATA[TS3 ServerQuery Port]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3serverquery_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Port used for ServerQuery. e.g. 10011]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3server_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Hostname/IP of the TS3 server. e.g. localhost]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3username" version_id="1004" version_string="1.0.4">
+            <![CDATA[TS3 ServerQuery Username]]></phrase>
+        <phrase title="option_ts3gw2auth_ts3username_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Username for logging into ServerQuery]]></phrase>
+        <phrase title="option_ts3gw2auth_verified_group" version_id="1004" version_string="1.0.4">
+            <![CDATA[Verified Group ID]]></phrase>
+        <phrase title="option_ts3gw2auth_verified_group_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[Please enter the ID of the group verified players should be added to in TS3.]]></phrase>
+        <phrase title="option_ts3gw2auth_worldid" version_id="1004" version_string="1.0.4">
+            <![CDATA[Verified World]]></phrase>
+        <phrase title="option_ts3gw2auth_worldid_explain" version_id="1004" version_string="1.0.4">
+            <![CDATA[API keys must return this world as the home world in order to add to the Verified Group.]]></phrase>
+    </phrases>
+    <route_prefixes>
+        <route_type type="public">
+            <prefix original_prefix="TS3Auth" class="Moturdrn_TS3GW2Auth_Route_Prefix_Auth" build_link="data_only"/>
+        </route_type>
+    </route_prefixes>
+    <style_properties/>
+    <templates>
+        <template title="Moturdrn_TS3GW2Auth_Complete" version_id="1001" version_string="1.0.1"><![CDATA[<xen:title>Gunnar's Hold Teamspeak Authentication</xen:title>
+<div id="pageNodeContent">
+	<article>
+		<div class="baseHtml messageText">
+			<div class="section">
+			<h1><b>Verification Process Complete</b></h1>
+
+			<p><xen:if is="{$world} == 2014">Thank you. Your account has now been checked, and you have been verified as a player of Gunnar's Hold. Your identity now has access to the WvW Channels.<xen:else />Thank you. Your account has now been checked, however the system has detected you are not a player of Gunnar's Hold.</xen:if></p>
+			<p>If you want to use the same Guild Wars 2 account to get verified on multiple devices, export your identity: <a href="http://www.gunnars-hold.eu/content/165-Back-up-your-identity">http://www.gunnars-hold.eu/content/165-Back-up-your-identity</a></p>
+			<p>Please note, this does not give access to your username or password combination, nor does it give us access to change anything on your account. The information it returns is currently the account name (i.e. JoeBlogs.7284), World ID, a unique identifier for your account, and list of Guilds by ID. If at any time you wish to revoke access, you can do so at <a href="https://account.guildwars2.com/account/api-keys" target="_blank">https://account.guildwars2.com/account/api-keys</a>. Please note that by revoking access the system will no longer be able to perform the automated verifications, and as such will remove your WvW access from Teamspeak.</p>
+			</div>
+		</div>
+	</artcile>
+</div>]]></template>
+        <template title="Moturdrn_TS3GW2Auth_Error" version_id="1001" version_string="1.0.1"><![CDATA[<xen:title>Gunnar's Hold Teamspeak Authentication</xen:title>
+<div id="pageNodeContent">
+	<article>
+		<div class="baseHtml messageText">
+			<div class="section">
+				<h1><b>Error During Verification</b></h1><br />
+
+				<p>Thank you! Unfortunately there was an error during the verification, which prevented us from retrieving account information.</p>
+
+				<h1><b>What does this mean for me?</b></h1>
+				<p>Whilst we were unable to retrieve your account information, we have temporarily granted you verified access. The system will continue to attempt to retrieve your account information in the meantime. Should you delete the API key, or the API returns you are not a member of Gunnar's Hold, the verification will be removed from your ID.</p>
+				<hr />
+				<p>If you want to use the same Guild Wars 2 account to get verified on multiple devices, export your identity: <a href="http://www.gunnars-hold.eu/content/165-Back-up-your-identity">http://www.gunnars-hold.eu/content/165-Back-up-your-identity</a></p>
+				<p>Please note, this does not give access to your username or password combination, nor does it give us access to change anything on your account. The information it returns is currently the account name (i.e. JoeBlogs.7284), World ID, a unique identifier for your account, and list of Guilds by ID. If at any time you wish to revoke access, you can do so at <a href="https://account.guildwars2.com/account/api-keys" target="_blank">https://account.guildwars2.com/account/api-keys</a>. Please note that by revoking access the system will no longer be able to perform the automated verifications, and as such will remove your WvW access from Teamspeak.</p>
+			</div>
+		</div>
+	</article>
+</div>]]></template>
+        <template title="Moturdrn_TS3GW2Auth_Index" version_id="1004" version_string="1.0.4"><![CDATA[<xen:title>Gunnar's Hold Teamspeak Authentication</xen:title>
+<div id="pageNodeContent">
+	<article>
+	<div class="baseHtml messageText">
+		<div class="section">
+			<h1 style="font-size: x-large"><b>Why am I here?</b></h1>
+			<p>Teamspeak WvW access is not currently restricted, but verification is recommended for the future.<p>
+			<p>You are here because you received a poke from a bot like below:</p>
+			<img src="styles/moturdrn/ts3gw2auth/key_create_screen.php?text={$ts3_nickname}" /><br />
+			<p>Please note the name, and that if you right click on the name you cannot find the bot in the channel tree.</p>
+	</div>
+		<div class="section">
+			<h1 style="font-size: x-large"><b>How do I verify?</b></h1>
+			<div class="secondaryContent">
+				<h3 class="title">1. Your API Key Name</h3>
+			</div>
+			<p>Your unique key name is <b><u>{$keyname}</u></b></p>
+			<p>This is required because lots of sites ask for API Keys. By doing this, it allows us to be more confident that the API key is actually created by you, for the Teamspeak, and assures you that no-one is using an API Key used elsewhere to verify your account here.</p>
+			<p>Please note that this code will change when you reload the page, so please pay attention to what it is.</p>
+			<br /><br />
+
+			<div class="secondaryContent">
+				<h3 class="title">2. Sign into your ArenaNet <u><a href="https://account.arena.net/applications" target=_blank>API Key Management Page</a></u></h3>
+			</div>
+			<p>If you have concerns about security when using the above link, please check the URL. In Chrome it should look like this <img src="https://i.imgur.com/mKFAgJS.png" /> and other browsers will display something similar.</p>
+			<p>If you still have concerns, you can manually go to GuildWars2.com -> Login -> Go to My Account -> Click on Applications
+			<br /><br />
+
+			<div class="secondaryContent">
+				<h3 class="title">3. Create your API Key</h3>
+			</div>
+			<img src="styles/moturdrn/ts3gw2auth/key_create_screen.php?text={$keyname}" />
+			<p>Remember to use the name exactly as it's given to you in step 1.</p>
+			<p>After clicking on "Create Key" you will be given your API Key</p>
+			<img src="styles/moturdrn/ts3gw2auth/key_create_screen.php?text={$keyname}&copy=1" />
+			<br /><br />
+
+			<div class="secondaryContent">
+				<h3 class="title">4. Enter your API Key below and click Submit</h3>
+			</div>
+			<form action="{xen:link 'TS3Auth/Auth', $guild}" method="post" class="AutoValidator" data-redirect="on">
+				<input type="hidden" name="securitytoken" value="{$sessionId}" />
+				<input type="hidden" name="type" value="NewAcc" />
+				<input type="text" name="APIKey" value="" size="75" /><br />
+				<input name="submit" type="submit" id="submit" value="Submit" class="newcontent_textcontrol callToAction"/>
+			</form><br />
+
+			<p><b>DO NOT USE THIS FOR REGISTERING MUSIC BOTS - PLEASE SPEAK TO A MODERATOR TO SET YOUR BOT UP IN A DEDICATED GROUP.</b></p>
+			<p>If you want to get authenticated on multiple devices, export your identity: <a href="http://www.gunnars-hold.eu/content/165-Back-up-your-identity">http://www.gunnars-hold.eu/content/165-Back-up-your-identity</a></p>
+			<p>Please note, this does not give access to your username or password combination, nor does it give us access to change anything on your account.</p>
+			<p>The information returned is an Account ID, Account Name (i.e. JoeBlogs.7284), Home World, and Guild IDs.</p>
+			<p>If at any time you wish to revoke access, you can do so at <a href="https://account.guildwars2.com/account/api-keys" target="_blank">https://account.guildwars2.com/account/api-keys</a>. Please note that by revoking access the system will no longer be able to verify you as a member of the server, and as such will remove access from Teamspeak.</p>
+		</div>
+	</div>
+	</article>
+</div>]]></template>
+        <template title="Moturdrn_TS3GW2Auth_Widget" version_id="1001" version_string="1.0.1"><![CDATA[<xen:require css="Moturdrn_TS3GW2Auth_Widget.css" />
+<xen:require js="js/moturdrn/ts3gw2auth/moturdrn_ts3gw2auth_widget.js" />
+<div style="height: 310px; overflow: scroll;">{xen:raw $tsOutput}</div>]]></template>
+        <template title="Moturdrn_TS3GW2Auth_Widget.css" version_id="1001" version_string="1.0.1"><![CDATA[/**
+ * TSStatus: Teamspeak 3 viewer for php5
+ * @author Sebastien Gerard <seb@sebastien.me>
+ * @see http://tsstatus.sebastien.me/
+ * @version 2013-08-31
+ **/
+
+#ts3viewercont{
+	height: 500px;
+	overflow: scroll;
+}
+
+.tsstatus, .tsstatuserror{
+	width: 300px;
+}
+
+.tsstatus, .tsstatus *, .tsstatuserror{
+	color: #00000;
+	font-family: Verdana;
+	font-size: 10px;
+}
+
+.tsstatus label{
+	border-bottom: 1px solid #aaaaaa;
+}
+
+.tsstatusItem a{
+	color: {xen:property contentText};
+}
+
+.tsstatusItem a:hover{
+	color: {xen:property contentText};
+}
+
+.tsstatuserror{
+	color: #ff0000;
+}
+
+.tsstatus, .tsstatus *{
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+}
+
+.tsstatus{
+	position: relative;
+	overflow: hidden;
+}
+
+.tsstatus label{
+	display: block;
+	padding: 2px 0;
+}
+
+.tsstatusItem{
+	margin-left: 16px;
+	position: relative;
+	white-space:nowrap;
+}
+
+.tsstatusItem a{
+	display: block;
+	text-decoration: none;
+}
+
+.tsstatusItem img{
+	border: 0;
+	vertical-align: middle;
+	margin-right: 2px;
+}
+
+.tsstatusFlags{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.tsstatusServer{
+	margin-left: 0;
+}]]></template>
+    </templates>
+    <public_template_modifications/>
+    <bb_code_media_sites/>
+    <bb_codes/>
+</addon>

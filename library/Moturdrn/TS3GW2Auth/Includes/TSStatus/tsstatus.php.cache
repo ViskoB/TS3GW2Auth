@@ -1,0 +1,1034 @@
+<div class="tsstatus">
+	<input type="hidden" id="tsstatus-192-168-1-4-9987-hostport" value="192.168.1.4:9987" />
+	
+	<div class="tsstatusItem tsstatusServer">
+		<a href="javascript:tsstatusconnect('192-168-1-4-9987')"><img src="styles/moturdrn/ts3gw2auth/16x16_server_green.png" />Gunnars-Hold.eu TS3 Server</a>
+		<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1)" title="Welcome Channel [1]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Welcome Channel
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_default.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />✪ Hya
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" />
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1820)" title="Fractals [1820]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Fractals
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Kamaleet
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />mezmen
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />Pali
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',15)" title="Guilds [15]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Guilds
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1896)" title="[BB] The Bravest Brothers [1896]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[BB] The Bravest Brothers
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1911)" title="PvE [1911]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />PvE
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[BB] Elen
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[BB]Figut
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[BB] Mors
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_877488964.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[BB] Petrus
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[BB]Eri
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Ana Olthan
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Cha(ł)os
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" /><img src="styles/moturdrn/ts3gw2auth/group_877488964.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Draxvood
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_877488964.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Maciej x Sibila x
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" /><img src="styles/moturdrn/ts3gw2auth/group_877488964.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Stardust
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2170)" title="[COPS] Running From The [2170]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[COPS] Running From The
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2172)" title="WvW Madness [2172]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />WvW Madness
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2292)" title="Open like your mum [2292]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Open like your mum
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />Helga Von Meer
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Musicboottt
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2073)" title="[DIVI] Divide Et Imperaa [2073]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[DIVI] Divide Et Imperaa
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2080)" title="Open Access [2080]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Open Access
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />DanielAmokachi / Darth
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',252)" title="[GRTS] Greek Titans [252]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[GRTS] Greek Titans
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Draxmi-Souvlaki-Yani Varoufaki
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Deadly Backstab
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',917)" title="[GWT] Guerilla War Tactix [917]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[GWT] Guerilla War Tactix
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Tris
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />Nibel
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2307)" title="[LOSE] We Win You [2307]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[LOSE] We Win You
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />aris
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" />
+	</div>
+</div>
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2361)" title="Hallmet&#039;s Swagging Corner [2361]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_yellow.png" />Hallmet&#039;s Swagging Corner
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_register.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[LOSE] HallmetW
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',75)" title="[MM] Midnight Mayhem [75]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[MM] Midnight Mayhem
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',207)" title="PvE [207]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />PvE
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2332)" title="Raids [2332]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Raids
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2333)" title="24/11 Raid Team Channel [2333]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />24/11 Raid Team Channel
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]Cirrus / Ezrah
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2363)" title="1 [2363]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />1
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]BolyBon
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM] Blamore
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]Dave
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]EXILE
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]Giandor
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[MM]Hat
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]Jessie
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Jinxta
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[MM]ViskoDisco
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',326)" title="Other Games [326]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Other Games
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1109)" title="Game 3 [1109]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Game 3
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[MM]Bikkan
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_200.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM]Pajco
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />deRogich
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',215)" title="AFK [215]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />AFK
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_moderated.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[MM] Blomkarse
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" /><img src="styles/moturdrn/ts3gw2auth/group_877488964.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />[MM] Siegmeyer
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1873)" title="[PR] Get in The Van Yo [1873]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_yellow.png" />[PR] Get in The Van Yo
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_register.png" />
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1874)" title="AFK Van  ( ͡&deg;╭͜ʖ╮͡&deg; ) [1874]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />AFK Van  ( ͡&deg;╭͜ʖ╮͡&deg; )
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_moderated.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />A.Lateef
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_away.png" />Fhd
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />Mishari
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_200.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />A.Lateef_Bot
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1932)" title="Chilling Cave  ( ͡&deg; ͜ʖ ͡&deg;) [1932]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Chilling Cave  ( ͡&deg; ͜ʖ ͡&deg;)
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />JNDARK
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />m4je
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2056)" title="PvE  (ง ͠&deg; ͟ل͜ ͡&deg;)ง [2056]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />PvE  (ง ͠&deg; ͟ل͜ ͡&deg;)ง
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />1 SKAI
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[PR]Suwi/Oz
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[PR]snowpierrcer
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_200.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />Ghost
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Farawla :P
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1876)" title="Other Games   ᕙ( ︡&rsquo;︡益&rsquo;︠)ง [1876]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Other Games   ᕙ( ︡&rsquo;︡益&rsquo;︠)ง
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />S1express
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1895)" title="Daughtah 2 [1895]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Daughtah 2
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />Bandaroonii
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_200.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',273)" title="[PvE] Players Versus Everything (Guild) [273]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[PvE] Players Versus Everything (Guild)
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',283)" title="General Chat [283]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />General Chat
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[PvE] Fashlar
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />[PvE] Harlequ&iacute;nne
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />[PvE] Rin
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1652)" title="[RBL] Rebelya [1652]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[RBL] Rebelya
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1662)" title="AFK [1662]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />AFK
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_moderated.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />[nRBL]Elia
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1847)" title="[RES] Corrupted Resistance [1847]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[RES] Corrupted Resistance
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Shaun
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />.peaImAmemer
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Adam
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Yan
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2279)" title="[REKT] Get Wrecked [2279]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[REKT] Get Wrecked
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2284)" title="WvW [2284]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />WvW
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[REKT]Z Joker Z
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[REKT] Eshona
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[REKT] Juriez
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />[REKT]Elisag-Kirill
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />CodeZero
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Nexaii
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />toracas
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2287)" title="AFK&lt; [2287]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />AFK&lt;
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />[REKT] Kaos
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',239)" title="[Rise] Madness Rises [239]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[Rise] Madness Rises
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',496)" title="Other games [496]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Other games
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[Rise]lucky
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />boon
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1156)" title="Bad dolyak channel [1156]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Bad dolyak channel
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Rock
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2043)" title="[Rv] R&eacute;solved [2043]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[Rv] R&eacute;solved
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2044)" title="Hang Out - WARNING! Loud musicbot [2044]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Hang Out - WARNING! Loud musicbot
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Dragon Warrior Kai
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[Rv] Reaper Woden
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />CDrakulus
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Royall
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />Woden Noise
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1206)" title="[SnuG] Snuggle Bunnies Of Doom [1206]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[SnuG] Snuggle Bunnies Of Doom
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1222)" title="PvE [1222]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />PvE
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />[SnuG] Xan
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1916)" title="[So] Shellfish [1916]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[So] Shellfish
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1919)" title="Insane Science Chopper Channel [1919]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Insane Science Chopper Channel
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Caos Danzante
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Kalliel
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Ghetto
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Haldthin | Sascha
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Johnny
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[So] Smok
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Vipex
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So]Rodyan
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So]Yuffiee
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2178)" title="Luxury Legitimate Llama Lodge [2178]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Luxury Legitimate Llama Lodge
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Talvani|Mike
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[So] Venus
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',684)" title="[VETO] Final Say [684]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[VETO] Final Say
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[VETO] Ame
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[VETO] Rollende Donder
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />LouseFur
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',905)" title="[WaCo] War Corporation [905]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[WaCo] War Corporation
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',921)" title="Relax [921]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Relax
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />Little More
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1969)" title="[WALL] We Don&#039;t have [1969]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[WALL] We Don&#039;t have
+		<div class="tsstatusFlags">
+			
+		</div>
+		
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1974)" title="Dungeons [1974]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />Dungeons
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Gormathon
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />Mini Mus V2.0
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_878982261.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',2306)" title="[WFR] White Fell Rise [2306]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />[WFR] White Fell Rise
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[WFR]Wowe Darth
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[WFR] EpicErnie
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />(Bot)Darths Music Golem
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />Hina
+	<div class="tsstatusFlags">
+		
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />OlliX
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	
+</div><div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1982)" title="[Wolf] Band of the Fenrir [1982]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_yellow.png" />[Wolf] Band of the Fenrir
+		<div class="tsstatusFlags">
+			<img src="styles/moturdrn/ts3gw2auth/16x16_register.png" />
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_output_muted.png" />matosh
+	<div class="tsstatusFlags">
+		
+	</div>
+</div>
+	</a>
+	<div class="tsstatusItem">
+	<a href="javascript:tsstatusconnect('192-168-1-4-9987',1984)" title="PvE 1 [1984]">
+		<img src="styles/moturdrn/ts3gw2auth/16x16_channel_green.png" />PvE 1
+		<div class="tsstatusFlags">
+			
+		</div>
+		<div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />[Wolf] Laelia
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />[Wolf] Rohim
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_on.png" />[Wolf] SkyCoaster
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1078619267.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Dikis
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_100.png" /><img src="styles/moturdrn/ts3gw2auth/group_1385036651.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Kippie
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_hardware_input_muted.png" />Marcus
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />scoutlerz / emperor / groot
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" /><img src="styles/moturdrn/ts3gw2auth/group_1404611537.png" /><img src="styles/moturdrn/ts3gw2auth/group_1489383805.png" /><img src="styles/moturdrn/ts3gw2auth/group_1211809458.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_player_off.png" />Zerink
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div><div class="tsstatusItem">
+	<img src="styles/moturdrn/ts3gw2auth/16x16_input_muted.png" />tuthi
+	<div class="tsstatusFlags">
+		<img src="styles/moturdrn/ts3gw2auth/group_600.png" />
+	</div>
+</div>
+	</a>
+	
+</div>
+</div>
+</div>
+	</div>
+</div>
